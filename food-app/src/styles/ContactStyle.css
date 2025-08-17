@@ -1,0 +1,41 @@
+.contact-section {
+  background-color: #fff8e1; /* light yellow */
+}
+
+.contact-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fbc02d; /* bright yellow */
+}
+
+.contact-subtitle {
+  color: #555;
+}
+
+.contact-card {
+  background-color: #ffffff;
+  border: 2px solid #fbc02d;
+  border-radius: 12px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.contact-card h4 {
+  color: #fbc02d;
+  margin-top: 15px;
+}
+
+.contact-card p,
+.contact-card a {
+  color: #333;
+  font-size: 1rem;
+}
+
+.contact-card a:hover {
+  color: #f57f17; /* darker yellow */
+}
+
+.contact-img {
+  max-width: 350px;
+  border-radius: 12px;
+  border: 3px solid #fbc02d;
+}
